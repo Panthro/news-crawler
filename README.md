@@ -1,3 +1,10 @@
+# Flow of execution
+
+NOTE: Unfortunately github does not allow embedding svg in readme anymore, http://stackoverflow.com/q/13808020/656094
+
+
+So, checkout this file: [./docs/diagram.svg](./docs/diagram.svg)
+
 
 # Running
 

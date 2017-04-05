@@ -27,6 +27,18 @@ localhost:8080/url
 ```
 
 
+# Extending
+
+There are 2 properties in the `appplication.yml` that can be used to configure the behavior of the application:
+
+```yml
+crawler:
+  matcher:
+    selector: title # The css selector used to match elements in JSOUP
+    pattern: ^.*(news|noticias).* # The REGEX used to determine if an element matched by the css selector is a MATCH or not
+```
+
+
 # Bonus
 
 check the results using the HAL browser:

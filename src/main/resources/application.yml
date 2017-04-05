@@ -1,0 +1,4 @@
+crawler:
+  matcher:
+    selector: title
+    pattern: ^.*(news|noticias).*

@@ -59,3 +59,5 @@ Data Rest & Hal Browser to browse the entities in the mongo repository
 I used my own technology stack which is mostly based on the tools on the requirements
 because I did not have a lot of time to build this app and
 I preferred to do that in the amount of time I had than not build it at all
+
+You can check all tools used in the `pom.xm`
